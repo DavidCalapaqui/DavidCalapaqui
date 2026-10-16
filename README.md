@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @DavidCalapaqui
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on a many projects
-- 📫 How to reach me david.calapaqui98@gmail.com
+# Héctor David Calapaqui Bonilla
 
-<!---
-DavidCalapaqui/DavidCalapaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Frontend Developer · Ecuador
+
+## Technologies
+
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, SCSS
+- **Mobile:** Jetpack Compose (Android), Swift (iOS)
+- **Backend & integration:** Node.js, Java (Spring Boot, Thymeleaf), REST APIs, microservices
+
+## Projects
+
+- [react-calendar-app](https://github.com/DavidCalapaqui/react-calendar-app): calendar app in React
+- [backend-node](https://github.com/DavidCalapaqui/backend-node): backend in Node.js
+- [node-tareas](https://github.com/DavidCalapaqui/node-tareas): Node CLI for task management
+
+## Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hdcalapaqui)
+- 📫 david.calapaqui98@gmail.com
+- 📱 +593 989 685 098
